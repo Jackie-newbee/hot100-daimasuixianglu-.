@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * 二叉树层序遍历
  */
-public class Test3 {
+public class Test5 {
 
     class Solution{
         public List<List<Integer>> resList = new ArrayList<List<Integer>>();
